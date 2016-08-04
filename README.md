@@ -1,1 +1,1 @@
-# kaggle, Enjoy Kaggle Competition
+# Enjoy Kaggle Competition
